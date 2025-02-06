@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDeHkQrs2v8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seth2\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cozygode\\cozygode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seth2\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

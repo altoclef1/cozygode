@@ -1,0 +1,44 @@
+Projectiles: {
+	ExoticSteal.DisplayName: Exotic Steal
+	MagicStar.DisplayName: Magic Star
+	Monster.DisplayName: Monster
+	Yoyoy.DisplayName: Yoyoy
+	Solarthrow.DisplayName: Solarthrow
+}
+
+Items: {
+	ExoticKnives: {
+		Tooltip: ""
+		DisplayName: Exotic Knives
+	}
+
+	AllPurposeTool: {
+		DisplayName: All Purpose Tool
+		Tooltip: ""
+	}
+
+	StarFall: {
+		DisplayName: Star Fall
+		Tooltip: ""
+	}
+
+	Starfall: {
+		DisplayName: Starfall
+		Tooltip: ""
+	}
+
+	Funny: {
+		DisplayName: Funny
+		Tooltip: ""
+	}
+
+	Yoyoyo: {
+		Tooltip: ""
+		DisplayName: Yoyoyo
+	}
+
+	solarspear: {
+		DisplayName: solarspear
+		Tooltip: ""
+	}
+}
